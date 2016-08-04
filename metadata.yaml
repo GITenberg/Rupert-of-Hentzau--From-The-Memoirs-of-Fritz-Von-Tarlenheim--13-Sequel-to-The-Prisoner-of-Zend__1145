@@ -1,0 +1,39 @@
+_repo: Rupert-of-Hentzau--From-The-Memoirs-of-Fritz-Von-Tarlenheim--13-Sequel-to-The-Prisoner-of-Zend__1145
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Hope, Anthony
+    alias: Hawkins, Anthony Hope
+    birthdate: 1863
+    deathdate: 1933
+    gutenberg_agent_id: '63'
+    url: http://www.gutenberg.org/2009/agents/63
+    wikipedia: http://en.wikipedia.org/wiki/Anthony_Hope
+description: "Rupert of Hentzau is a sequel by Anthony Hope to The Prisoner of Zenda,\
+  \ written in 1895, but not published until 1898.\n From Wikipedia (CC BY-SA)."
+gutenberg_bookshelf:
+- Movie Books
+- Adventure
+gutenberg_issued: '1997-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1145'
+  wikidata: Q7380383
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'British -- Foreign countries -- Fiction'
+- !lcsh 'Impostors and imposture -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Adventure stories'
+- GITenberg
+title: "Rupert of Hentzau: From The Memoirs of Fritz Von Tarlenheim\r\nSequel to The\
+  \ Prisoner of Zenda"
+url: http://www.gutenberg.org/ebooks/1145
+wikipedia:
+- https://en.wikisource.org/wiki/Rupert_of_Hentzau
+- https://en.wikipedia.org/wiki/Rupert_of_Hentzau
+- https://commons.wikimedia.org/wiki/Category:Rupert_of_Hentzau
+- https://es.wikipedia.org/wiki/Rupert_de_Hentzau
